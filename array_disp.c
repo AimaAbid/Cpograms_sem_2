@@ -1,3 +1,4 @@
+//Display the array
 #include<stdio.h>
 int main(){
    int num,a[100],i;

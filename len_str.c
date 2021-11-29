@@ -5,7 +5,7 @@ int main()
     int i=0;
     printf("enter the string");
     gets(a);
-    while(a[i]!=0)
+    while(a[i]!='\0')
     {
         i++;
 

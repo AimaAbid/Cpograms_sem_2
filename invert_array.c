@@ -6,19 +6,19 @@ int main()
     scanf("%d",&size);
     printf("Enter the elements of array");
     
-    //input string from the user
+    //input array from the user
     for(i=0;i<size;i++)
     {
         scanf("%d",&a[i]);
     }
     
-    //invert the string
+    //invert the array
     for(i=0;i<size;i++)
     {
         b[i]=a[size-i-1];
     }
     
-    //print the reversed string
+    //print the reversed array
     for(i=0;i<size;i++)
     {
         printf("%d",b[i]);

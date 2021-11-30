@@ -1,4 +1,4 @@
-//Display the array
+//Input an array  and Display the array on screen
 #include<stdio.h>
 int main(){
    int num,a[100],i;
@@ -15,5 +15,6 @@ int main(){
        printf("%d",a[i]);
 
    }
+   return 0;
     
 }

@@ -1,3 +1,4 @@
+//bubble sort
 #include<stdio.h>
 int main()
 {
@@ -5,7 +6,7 @@ int main()
         printf("enter the size of array");
         scanf("%d",&size);
         printf("enter the array");
-        //input string from the user
+        //input array from the user
 
         for(i=0;i<size;i++)
       {

@@ -1,4 +1,4 @@
-// invetred pyramid of *
+// inverted half pyramid of *
 #include<stdio.h>
 int main()
 {

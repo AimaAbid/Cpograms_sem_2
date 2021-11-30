@@ -1,3 +1,4 @@
+//input the elements of matrix and display them as matrix
 #include<stdio.h>
 int main()
 {

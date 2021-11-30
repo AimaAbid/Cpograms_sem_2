@@ -1,3 +1,4 @@
+//to find factorial of number by recursion
 #include<stdio.h>
 int fac(int n)
 {
